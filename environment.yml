@@ -1,0 +1,12 @@
+# environment.yml
+name: ds-credit-insurance
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - pandas
+  - polars
+  - ydata-profiling
+  - pytest
+  - black
+  - flake8

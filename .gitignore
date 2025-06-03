@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.env
+
+# Jupyter
+*.ipynb_checkpoints/
+
+# Data & models
+data/
+reports/figures/
+
+# Dev Containers / Docker
+.vscode/
+.devcontainer/*.local.env
